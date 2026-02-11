@@ -22,6 +22,14 @@
     color: black;
 }
 
+.name:hover{
+    background-color: yellow;
+    color: black;
+    box-shadow: 15px 15px 5px 5px red;
+    filter: blur(0.5px);
+    border: 20px solid black;
+}
+
 .phoebe{
     font-size: 1.5em;
     color: black;
