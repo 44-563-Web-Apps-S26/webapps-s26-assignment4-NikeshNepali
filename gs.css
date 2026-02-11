@@ -61,3 +61,15 @@
     font-size: 20px;
     color: blue;
 }
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+tr, td{
+    border: 1px solid black;
+    padding: 5px;
+    margin: 10px;
+}
