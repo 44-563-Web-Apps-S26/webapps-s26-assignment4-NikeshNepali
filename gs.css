@@ -1,0 +1,58 @@
+.speech{
+    font-size: 10px;
+    color: black;
+}
+
+.song{
+    font-size: 20px;
+    color: black;
+}
+
+.direction{
+    font-size: 1em;
+    color: black;
+}
+.direction:hover{
+    background-color: purple;
+    color: white;
+}
+
+.name{
+    font-size: 1.5em;
+    color: black;
+}
+
+.phoebe{
+    font-size: 1.5em;
+    color: black;
+}
+
+.wilfred{
+    font-size: 1.5em;
+    color: black;
+}
+
+.crowd{
+    font-size: 1.5em;
+    color: black;
+}
+
+.yeomen{
+    font-size: 1.5em;
+    color: black;
+}
+
+.dame{
+    font-size: 1.5em;
+    color: black;
+}
+
+.meryll{
+    font-size: 1.5em;
+    color: black;
+}
+
+.speech{
+    font-size: 10px;
+    color: blue;
+}
